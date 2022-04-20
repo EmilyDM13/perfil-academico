@@ -21,6 +21,6 @@ Estudiante de Geografía de la Universidad de Costa Rica
 
 **Imagen en el empleo:**  
 
-<img src="enelempleo.jpg" alt="Girl in a jacket" style="width:550px;height:350px;">
+<img src="enelempleo.jpg" alt="gato" style="width:550px;height:350px;">
 
 ![](enelempleo.jpg)
