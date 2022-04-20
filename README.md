@@ -19,5 +19,8 @@ Estudiante de Geografía de la Universidad de Costa Rica
 2. *Hidroclimatología*
 3. *Matemática para geografía I y II*
 
-**Imagen en el empleo:**
+**Imagen en el empleo:**  
+
+<img src="enelempleo.jpg" alt="Girl in a jacket" style="width:550px;height:350px;">
+
 ![](enelempleo.jpg)
